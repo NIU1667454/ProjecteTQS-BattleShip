@@ -2,7 +2,8 @@
 public class Main {
 
 	public Main() {
-		System.out.println("Començant...");
+		System.out.println("Començant");
+		
 	}
 
 }
